@@ -51,7 +51,7 @@ N_WORDS = {
 # For preprocessing
 BERT_PRETRAINED = 'vinai/phobert-base'
 
-MODEL_SAVE_PATH = 'autocorrection/weights/'
+MODEL_SAVE_PATH = 'weights/'
 SOFT_MASKED_BERT_MODEL = f'model_{DOMAIN}.pth'
 
-PKL_PATH = 'autocorrection/input/hume/'
+PKL_PATH = 'input/luanvan/'

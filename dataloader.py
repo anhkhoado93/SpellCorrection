@@ -61,10 +61,10 @@ class TransformerEncoderDataset(Dataset):
         else:
             self.data = data
             self.error_sentence = self.data.error_sentence
-            self.word_tokenizer = load_file_picke('input/hume/word_tokenizer.pkl')
+            self.word_tokenizer = load_file_picke('input/luanvan/word_tokenizer.pkl')
             self.error_ids = tokenizer_ids(self.error_sentence, self.word_tokenizer)
             if self.add_char_level:
-                self.char_tokenizer = load_file_picke('input/hume/char_tokenizer.pkl')
+                self.char_tokenizer = load_file_picke('input/luanvan/char_tokenizer.pkl')
                 self.char_error_token_ids = tokenizer_ids(self.error_sentence, self.char_tokenizer)
                 self.batch_splits = get_size_word_in_sentence(self.error_sentence)
 
