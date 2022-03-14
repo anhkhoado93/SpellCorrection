@@ -2,6 +2,11 @@
 - clone repository
 ```
 git clone https://github.com/anhkhoado93/SpellCorrection.git
+
+cd SpellCorrection
+mkdir weights
+mkdir weights/model
+mkdir weights/history
 ```
 - download [this folder](https://drive.google.com/drive/folders/1v2AHP3tsDFimp72AjrwVIM-WLf9KS4gW?usp=sharing) and put it in **SpellCorrection/input** folder. Or manually download each file:
 
