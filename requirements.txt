@@ -5,10 +5,6 @@ tensorflow
 torch
 torchtext
 transformers 
-kenlm
-streamlit
-fastapi
-unicorn[standard]
 nltk
 dill
 spacy

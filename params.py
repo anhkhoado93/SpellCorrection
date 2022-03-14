@@ -1,4 +1,4 @@
-DEVICE = "gpu"
+DEVICE = "cuda"
 
 # phobert: PhoBertEncoder, trans: MaskedSoftBert, char_trans: CharWordTransformerEncoding
 MODEL_NAME = 'trans'
@@ -40,7 +40,7 @@ IS_BERT = False
 FINE_TUNED=True
 
 # Batch size samples
-BATCH_SIZE=32
+BATCH_SIZE=16
 
 DOMAIN = 'luanvan'
 N_WORDS = {
