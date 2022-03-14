@@ -1,0 +1,618 @@
+{
+    "chị": [
+        "ch",
+        "ci",
+        "cị",
+        "chj",
+        "sj",
+        "cj",
+        "c"
+    ],
+    "không": [
+        "ko",
+        "kh",
+        "k0",
+        "hog",
+        "hem",
+        "hok",
+        "hk",
+        "hoq",
+        "hôk",
+        "họk",
+        "khg",
+        "kg",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k"
+    ],
+    "biết": [
+        "bik",
+        "pik",
+        "pt",
+        "bit",
+        "bk",
+        "piet",
+        "bíc",
+        "pek",
+        "pjx",
+        "pít"
+    ],
+    "chuyển khoản": [
+        "ck",
+        "ckh",
+        "ckhoan",
+        "chkhoan"
+    ],
+    "giờ": [
+        "jo",
+        "zờ",
+        "h"
+    ],
+    "gì": [
+        "j",
+        "jk",
+        "iz",
+        "gj",
+        "ji"
+    ],
+    "ừ": [
+        "uh",
+        "uk",
+        "um",
+        "uhm",
+        "ưk",
+        "ukm"
+    ],
+    "rồi": [
+        "rồ",
+        "oy",
+        "rùi",
+        "roy",
+        "ùi",
+        "roz",
+        "dòi",
+        "goài",
+        "zui",
+        "òi",
+        "r"
+    ],
+    "ạ": [
+        "ịa",
+        "ạk",
+        "ạb",
+        "ak",
+        "ạh"
+    ],
+    "số điện thoại": [
+        "sdt",
+        "sdt:",
+        "sđt",
+        "sđt:",
+        "stđ",
+        "sdth"
+    ],
+    "điện thoại": [
+        "dt",
+        "dt:",
+        "đt",
+        "đt:",
+        "dth",
+        "dthoai",
+        "đth",
+        "đthoại"
+    ],
+    "nhắn tin": [
+        "nt",
+        "nht",
+        "ntin"
+    ],
+    "bao nhiêu": [
+        "bnhiu",
+        "bnhju",
+        "bnhjiu",
+        "bnhiju",
+        "bnhjeu",
+        "bnh",
+        "baonh",
+        "bnhieu",
+        "baonhiu",
+        "bnhiêu",
+        "pn",
+        "pnhiu",
+        "bn"
+    ],
+    "nhiêu": [
+        "nhjeu",
+        "nhiu",
+        "mhieu",
+        "mhiu",
+        "mhiêu",
+        "mhjêu",
+        "mhjeu",
+        "mhju",
+        "nh",
+        "nkju",
+        "nhju",
+        "nkiu"
+    ],
+    "luôn": [
+        "lun"
+    ],
+    "mình": [
+        "mih",
+        "mik",
+        "mh",
+        "mjnh",
+        "mìh",
+        "muk",
+        "mjk",
+        "mk",
+        "miz",
+        "mìk",
+        "mjh",
+        "m"
+    ],
+    "tin nhắn": [
+        "tn",
+        "tnhan",
+        "tnhắn"
+    ],
+    "giúp": [
+        "jup",
+        "zúp"
+    ],
+    "kiểm tra": [
+        "ktra",
+        "kt",
+        "ktr"
+    ],
+    "à": [
+        "ah",
+        "àh",
+        "àk"
+    ],
+    "trả lời": [
+        "tl",
+        "tloi",
+        "tlời",
+        "trl",
+        "trlời"
+    ],
+    "địa chỉ:": [
+        "dc:",
+        "đc:"
+    ],
+    "được": [
+        "dc",
+        "đc",
+        "dx",
+        "đcc",
+        "trx",
+        "đk"
+    ],
+    "inbox": [
+        "ib",
+        "inb",
+        "jb",
+        "ibx",
+        "inbx"
+    ],
+    "messenger": [
+        "mes",
+        "msg",
+        "msm"
+    ],
+    "trước": [
+        "trc",
+        "trk",
+        "tr",
+        "trcs"
+    ],
+    "vậy": [
+        "vâyh",
+        "zi",
+        "zaj",
+        "jay",
+        "zị",
+        "v",
+        "wax",
+        "z",
+        "zậy",
+        "dzay",
+        "dzậy",
+        "dzị",
+        "dợ",
+        "vax",
+        "zay",
+        "zij",
+        "zik",
+        "zjk",
+        "zk",
+        "zây",
+        "zẫy",
+        "zợ"
+    ],
+    "shop": [
+        "sh",
+        "sop",
+        "sho",
+        "shoo",
+        "shpo",
+        "sohp",
+        "sôp",
+        "shp",
+        "sho0",
+        "shopp",
+        "dhop",
+        "s"
+    ],
+    "nhân viên": [
+        "nv",
+        "nhv",
+        "nhânv",
+        "nviên"
+    ],
+    "ơi": [
+        "ui",
+        "ơk",
+        "ưi",
+        "êi"
+    ],
+    "nè": [
+        "neg",
+        "nek",
+        "nừ",
+        "nèk",
+        "nạk"
+    ],
+    "địa chỉ": [
+        "dchi",
+        "đchi",
+        "dch",
+        "dchỉ"
+    ],
+    "ship": [
+        "shjp",
+        "siếp",
+        "sip",
+        "síp",
+        "shio"
+    ],
+    "á": [
+        "akk",
+        "ek",
+        "ák",
+        "ã",
+        "áh",
+        "ía",
+        "ík"
+    ],
+    "vừa": [
+        "zua",
+        "zừa",
+        "dzua",
+        "dừa",
+        "dzừa"
+    ],
+    "bao giờ": [
+        "bgio",
+        "bjo",
+        "bg",
+        "bgiờ"
+    ],
+    "hôm qua": [
+        "hqa",
+        "hq",
+        "hqua",
+        "homqa",
+        "hwa"
+    ],
+    "cũng": [
+        "cug",
+        "cx",
+        "cg"
+    ],
+    "có": [
+        "cok",
+        "coa",
+        "koa",
+        "cóa"
+    ],
+    "thôi": [
+        "thoy",
+        "tkoy",
+        "thoii",
+        "th"
+    ],
+    "chủ nhật": [
+        "cn",
+        "cnhat",
+        "cnhật"
+    ],
+    "cho": [
+        "cko",
+        "choa"
+    ],
+    "đi": [
+        "dj",
+        "đj",
+        "ik",
+        "yk"
+    ],
+    "đang": [
+        "đg",
+        "dg"
+    ],
+    "thanks": [
+        "tks",
+        "ths",
+        "tsk"
+    ],
+    "sản phẩm": [
+        "sp",
+        "spam",
+        "spham"
+    ],
+    "nhưng": [
+        "nhưg",
+        "nhuk",
+        "nhg"
+    ],
+    "không biết": [
+        "kb",
+        "kbiet",
+        "khbiet"
+    ],
+    "xong": [
+        "xog",
+        "sog"
+    ],
+    "không sao": [
+        "ks",
+        "ksao"
+    ],
+    "sao": [
+        "s",
+        "seo"
+    ],
+    "nha": [
+        "nhak",
+        "nah",
+        "naz",
+        "nhk",
+        "nhoa",
+        "nk"
+    ],
+    "ok": [
+        "ôk",
+        "okk",
+        "okie",
+        "okii",
+        "oke",
+        "okey",
+        "okoe",
+        "okela",
+        "oki",
+        "okila",
+        "uki",
+        "ok"
+    ],
+    "xinh": [
+        "xjnh",
+        "xuynh"
+    ],
+    "hàng": [
+        "hg",
+        "hag"
+    ],
+    "đó": [
+        "dok",
+        "doa",
+        "đok",
+        "đóe",
+        "đók"
+    ],
+    "phải": [
+        "pkaj",
+        "fai",
+        "pai",
+        "ph",
+        "fải",
+        "pải"
+    ],
+    "bằng": [
+        "bằg",
+        "bag"
+    ],
+    "thường": [
+        "thuog",
+        "thg"
+    ],
+    "size": [
+        "zai",
+        "zsay",
+        "xe",
+        "sia",
+        "xai",
+        "sizi",
+        "saj",
+        "sai",
+        "aize",
+        "side",
+        "zíe",
+        "sine",
+        "sire",
+        "sezi",
+        "zize",
+        "siza",
+        "siz",
+        "szie",
+        "sze",
+        "siez",
+        "siex",
+        "sz",
+        "sive"
+    ],
+    "set": [
+        "sét",
+        "sec"
+    ],
+    "mà": [
+        "mak",
+        "jmak",
+        "moa",
+        "mok",
+        "moà",
+        "màk",
+        "mừ"
+    ],
+    "tiền": [
+        "tìn",
+        "tjen"
+    ],
+    "nữa": [
+        "nx",
+        "nuk",
+        "nz"
+    ],
+    "giá": [
+        "gja",
+        "gjá",
+        "ja",
+        "já"
+    ],
+    "này": [
+        "nak",
+        "naj",
+        "nỳ",
+        "nì",
+        "nax",
+        "nakk",
+        "nàk"
+    ],
+    "vâng": [
+        "vg",
+        "vơn"
+    ],
+    "nhé": [
+        "nhek",
+        "nhék"
+    ],
+    "dữ": [
+        "zu",
+        "dzu",
+        "dzữ"
+    ],
+    "vẫn": [
+        "vx",
+        "zẫn"
+    ],
+    "vô": [
+        "dzo",
+        "zô",
+        "zo"
+    ],
+    "giùm": [
+        "dzum",
+        "yum",
+        "zum",
+        "zùm"
+    ],
+    "về": [
+        "dzề",
+        "zia",
+        "zê",
+        "zìa",
+        "zề"
+    ],
+    "hic": [
+        "hiz",
+        "hx",
+        "hix",
+        "hixx"
+    ],
+    "phải không": [
+        "pko",
+        "fk",
+        "pk",
+        "phk"
+    ],
+    "với": [
+        "vz",
+        "vs",
+        "ws",
+        "zoi",
+        "zí",
+        "zơi",
+        "zới"
+    ],
+    "bình thường": [
+        "bthuong",
+        "bth",
+        "bthg",
+        "bthuờng"
+    ],
+    "hôm nay": [
+        "hnay",
+        "hnai",
+        "hni",
+        "hn"
+    ],
+    "chương trình": [
+        "ct",
+        "ctrinh",
+        "ctr"
+    ],
+    "liên hệ": [
+        "lh",
+        "lhe",
+        "lhệ"
+    ],
+    "chuẩn bị": [
+        "cb",
+        "cbi"
+    ],
+    "đăng ký": [
+        "dki",
+        "đky"
+    ],
+    "freesize": [
+        "freesz",
+        "freeshize",
+        "fz"
+    ],
+    "sử dụng": [
+        "sd",
+        "sdung"
+    ],
+    "số lượng": [
+        "sl",
+        "sluong"
+    ],
+    "tổng cộng": [
+        "tc",
+        "tcong"
+    ],
+    "thời gian": [
+        "tg",
+        "tgian",
+        "thgian"
+    ],
+    "được không": [
+        "đko",
+        "dko"
+    ],
+    "bạn": [
+        "b",
+        "bn"
+    ],
+    "em": [
+        "e"
+    ]
+}
