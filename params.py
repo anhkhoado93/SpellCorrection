@@ -1,7 +1,7 @@
 DEVICE = "cuda"
 
 # phobert: PhoBertEncoder, trans: MaskedSoftBert, char_trans: CharWordTransformerEncoding
-MODEL_NAME = 'trans'
+MODEL_NAME = 'phobert'
 
 TRAINING_DATA_PERCENT=0.8
 
@@ -28,19 +28,19 @@ PENALTY_VALUE=0.3
 USE_DETECTION_CONTEXT=True
 
 # TransformerEncoderDataset if True else PhoBertDataset
-IS_TRANSFORMER = True
+IS_TRANSFORMER = False
 
 # Combine embedding char level to word embedding; 
 ADD_CHAR_LEVEL = False
 
 # For PhoBERT
-IS_BERT = False
+IS_BERT = True
 
 # Fine-tuned BERT pretrained model
 FINE_TUNED=True
 
 # Batch size samples
-BATCH_SIZE=16
+BATCH_SIZE=8
 
 DOMAIN = 'luanvan'
 N_WORDS = {
