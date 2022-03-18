@@ -262,6 +262,8 @@ class ModelTrainer:
         print(f"Save model {epoch} done")
         with open(MODEL_SAVE_PATH + f"history/history{epoch}.pkl", "wb") as file:
             pickle.dump(history, file)
+        if epoch > 5:
+            os.remove(MODEL_SAVE_PATH + f"model/model{epoch-5}.pth")
         print(f"Save history {epoch} done")
 
     def fit(self):
