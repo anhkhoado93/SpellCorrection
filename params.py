@@ -17,7 +17,7 @@ PATH_PRETRAINED_MODEL='autocorrection/weights/model/model_last.pth'
 IS_SPLIT_INDEXES=True
 
 # Number epoches
-N_EPOCH=3
+N_EPOCH=10
 
 # lambda  for control the important level of detection loss value
 LAMDA=0.6
