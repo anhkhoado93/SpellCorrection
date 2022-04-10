@@ -242,7 +242,7 @@ class PhoBertEncoder(nn.Module):
             for param in child.parameters():
                 param.requires_grad = self.fine_tuned
 
-    def merge_embedding(self, sequence_embedding: Tensor, sequence_split, mode='linear'):
+    def merge_embedding(self, sequence_embedding: Tensor, sequence_split, mode='add'):
         sequence_embedding = sequence_embedding[1: sum(sequence_split) + 1]  # batch_size*seq_length*hidden_size
         embeddings = torch.split(sequence_embedding, sequence_split, dim=0)
         word_embeddings = pad_sequence(
